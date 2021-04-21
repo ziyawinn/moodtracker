@@ -1,4 +1,7 @@
 
+
+## MoodTracker
+
 a application that allows you to track your mood while having a login screen using express
 
 ## Installation
