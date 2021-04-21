@@ -14,18 +14,4 @@ a application that allows you to track your mood while having a login screen usi
 1. run `node server.js`
 2. Navigate to `localhost:8080`
 
-## Credit
-
-Modified from Scotch.io's auth tutorial
-# moodtracker
-
-# moodtracker
-
-# moodtracker
-
-# trackermood
-
-# trackermood
-
-# moodtracker
 
